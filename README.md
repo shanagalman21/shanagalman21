@@ -1,7 +1,7 @@
 ## Shana Galman
 
 ## 👩‍💻 About Me  
-Hi! I'm Shana, a third-year Computer Science student who loves building cool stuff with code. I'm passionate about software engineering, web development, data science, and machine learning. Right now, I'm working on some personal projects to sharpen my skills! 😄
+Hi! I'm Shana, a third-year Computer Science student who loves building cool stuff with code. I'm passionate about software engineering, data science, and ML/AI. Right now, I'm working on some personal projects to sharpen my skills! 😄
 
 ## 🛠️ Skills  
 ### Languages  
